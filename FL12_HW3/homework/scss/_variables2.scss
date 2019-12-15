@@ -1,0 +1,34 @@
+$bg_header: url('..//img/m-h-night.jpg');
+$bg_body: #21232e;
+$color_1: #ffffff;
+$font_1: 'Fresca', sans-serif;
+$font_2: "Source Sans Pro", sans-serif;
+$bg_word: #ff4e33;
+$bg_buttn: #e3ac00;
+$bg_sect: #3b3f50;
+$gradient_1:#dea307;
+$gradient_2: #932d53;
+$pad_top_header: 22px;
+$logo_top: -4px;
+$logo_left: 0;
+$span_pad_left: 3px;
+$span_marg_top: 0;
+$h_h_pad_top: 72px;
+$sect_img_first_width: 1.03*430px;
+$sect_img_first_height: 1.03*285px;
+$sect_img_second_width: 1.03*416px;
+$sect_img_second_height: 1.03*274px;
+$sect_img_third_width: 1.03*459px;
+$sect_img_third_height: 1.04*304px;
+$width_section_text_first: 470px;
+$width_section_text_second: 472px;
+$width_section_text_third: 460px;
+$section_text_marg_top_first: 47px;
+$section_text_marg_top_second: 41px;
+$section_text_marg_top_third: 64px;
+$section_card_right_container_padding_second: 54px;
+$section_card_right_container_padding_third: 66px;
+$fonts: (
+  first: $font_1,
+  second: $font_2
+)
